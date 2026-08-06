@@ -386,6 +386,8 @@ button:hover{
 
     perspective:1000px;
 
+    -webkit-perspective:1000px;
+
 }
 
 .tarjetaInterior{
@@ -400,12 +402,16 @@ button:hover{
 
     transform-style:preserve-3d;
 
+    -webkit-transform-style:preserve-3d;
+
 }
 
 .tarjeta.girada .tarjetaInterior,
 .curiosidad.girada .tarjetaInterior{
 
     transform:rotateY(180deg);
+
+    -webkit-transform:rotateY(180deg);
 
 }
 
@@ -437,6 +443,8 @@ button:hover{
 
     -webkit-backface-visibility:hidden;
 
+    -webkit-transform:rotateZ(0);
+
     overflow:hidden;
 
 }
@@ -460,6 +468,8 @@ button:hover{
 .caraTrasera{
 
     transform:rotateY(180deg);
+
+    -webkit-transform:rotateY(180deg);
 
 }
 
@@ -614,6 +624,8 @@ button:hover{
 
     align-items: center;
 
+    margin-top:40px;
+
 }
 
 .controlesCuriosidades{
@@ -621,6 +633,24 @@ button:hover{
     display:flex;
 
     gap:10px;
+
+}
+
+.indicadorPagina{
+
+    font-size:.8rem;
+
+    font-weight:400;
+
+    opacity:.75;
+
+    margin-left:4px;
+
+}
+
+.curiosidad.oculta{
+
+    display:none;
 
 }
 #btnCuriosidadAnterior,
@@ -717,7 +747,13 @@ button:hover{
 
     .tarjeta{
 
-        height:145px;
+        height:195px;
+
+    }
+
+    .caraTarjeta{
+
+        gap:6px;
 
         padding:10px;
 
