@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-08-15T09:38:20.228Z",
-  "temperatura": 27.38888888888889,
-  "sensacion": 27.38888888888889,
-  "humedad": 32,
-  "viento": 16.89807,
-  "racha": 18.346476,
-  "direccionGrados": 114,
+  "actualizado": "2026-08-15T09:55:38.727Z",
+  "temperatura": 27.61111111111111,
+  "sensacion": 27.61111111111111,
+  "humedad": 33,
+  "viento": 12.230984,
+  "racha": 14.805927999999998,
+  "direccionGrados": 127,
   "direccion": "SE",
   "direccionNombre": "Sureste",
-  "presion": 1010.498776,
+  "presion": 1010.8374150000001,
   "lluviaHoy": 1.27,
   "intensidadLluvia": 0,
-  "radiacion": 661.1,
-  "uvi": 6
+  "radiacion": 541.7,
+  "uvi": 5
 }
