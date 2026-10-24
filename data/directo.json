@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-10-24T04:59:44.069Z",
-  "temperatura": 2.999999999999999,
-  "sensacion": 2.999999999999999,
-  "humedad": 78,
-  "viento": 0,
-  "racha": 0,
-  "direccionGrados": 234,
-  "direccion": "SO",
-  "direccionNombre": "Suroeste",
-  "presion": 1019.980668,
+  "actualizado": "2026-10-24T09:18:07.191Z",
+  "temperatura": 14.722222222222221,
+  "sensacion": 14.722222222222221,
+  "humedad": 43,
+  "viento": 1.1265379999999998,
+  "racha": 1.7702740000000001,
+  "direccionGrados": 276,
+  "direccion": "O",
+  "direccionNombre": "Oeste",
+  "presion": 1020.657946,
   "lluviaHoy": 0,
   "intensidadLluvia": 0,
-  "radiacion": 0,
-  "uvi": 0
+  "radiacion": 271.6,
+  "uvi": 2
 }
